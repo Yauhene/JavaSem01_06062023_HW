@@ -19,7 +19,6 @@ public class Task_1 {
         Scanner sc = new Scanner(System.in);
         System.out.println();
         System.out.printf("Enter integer number: ");
-        //System.out.println();
         int num = sc.nextInt();
         sc.close();
         System.out.println("number = " + num);
